@@ -1,0 +1,117 @@
+[
+ {
+  "name": "Submitted",
+  "idx": 0,
+  "workflow_state_name": "Submitted",
+  "style": "Info",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Draft",
+  "idx": 0,
+  "workflow_state_name": "Draft",
+  "style": "Warning",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Cancelled",
+  "idx": 0,
+  "workflow_state_name": "Cancelled",
+  "style": "Inverse",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Closed",
+  "idx": 0,
+  "workflow_state_name": "Closed",
+  "style": "Success",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Effectiveness Check",
+  "idx": 0,
+  "workflow_state_name": "Effectiveness Check",
+  "style": "Info",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "CAPA Open",
+  "idx": 0,
+  "workflow_state_name": "CAPA Open",
+  "style": "Warning",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Scrapped",
+  "idx": 0,
+  "workflow_state_name": "Scrapped",
+  "style": "Danger",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Return to vendor",
+  "idx": 0,
+  "workflow_state_name": "Return to vendor",
+  "style": "Warning",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Use as is",
+  "idx": 0,
+  "workflow_state_name": "Use as is",
+  "style": "Warning",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Repair",
+  "idx": 0,
+  "workflow_state_name": "Repair",
+  "style": "Warning",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Rework",
+  "idx": 0,
+  "workflow_state_name": "Rework",
+  "style": "Warning",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "MRB Review",
+  "idx": 0,
+  "workflow_state_name": "MRB Review",
+  "style": "Warning",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Open",
+  "idx": 0,
+  "workflow_state_name": "Open",
+  "style": "Danger",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Rejected",
+  "idx": 0,
+  "workflow_state_name": "Rejected",
+  "icon": "remove",
+  "style": "Danger",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Approved",
+  "idx": 0,
+  "workflow_state_name": "Approved",
+  "icon": "ok-sign",
+  "style": "Success",
+  "doctype": "Workflow State"
+ },
+ {
+  "name": "Pending",
+  "idx": 0,
+  "workflow_state_name": "Pending",
+  "icon": "question-sign",
+  "style": "",
+  "doctype": "Workflow State"
+ }
+]

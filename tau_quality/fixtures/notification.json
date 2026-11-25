@@ -1,0 +1,77 @@
+[
+ {
+  "name": "8D workflow change",
+  "idx": 0,
+  "enabled": 1,
+  "is_standard": 0,
+  "channel": "System Notification",
+  "subject": "{{ doc.name }} is now {{ doc.workflow_state }}",
+  "event": "Value Change",
+  "document_type": "G8D Report",
+  "days_in_advance": 0,
+  "minutes_offset": 0,
+  "value_changed": "workflow_state",
+  "send_system_notification": 0,
+  "notification_type": "Alert",
+  "condition_type": "Python",
+  "send_to_all_assignees": 0,
+  "message_type": "Markdown",
+  "message": "{{ doc.name }} moved to {{ doc.workflow_state }}. Open the record to act on it.",
+  "attach_print": 0,
+  "attach_files": "",
+  "doctype": "Notification",
+  "recipients": [
+   {
+    "name": "j2atbdbhqn",
+    "idx": 1,
+    "receiver_by_role": "Quality Manager",
+    "parent": "8D workflow change",
+    "parentfield": "recipients",
+    "parenttype": "Notification",
+    "doctype": "Notification Recipient"
+   },
+   {
+    "name": "j2aovdobb9",
+    "idx": 2,
+    "receiver_by_role": "Executive / CEO",
+    "parent": "8D workflow change",
+    "parentfield": "recipients",
+    "parenttype": "Notification",
+    "doctype": "Notification Recipient"
+   }
+  ]
+ },
+ {
+  "name": "NCR workflow change",
+  "idx": 0,
+  "enabled": 1,
+  "is_standard": 0,
+  "channel": "System Notification",
+  "subject": "{{ doc.name }} is now {{ doc.workflow_state }}",
+  "event": "Value Change",
+  "document_type": "Non Conformance",
+  "days_in_advance": 0,
+  "minutes_offset": 0,
+  "value_changed": "workflow_state",
+  "send_system_notification": 0,
+  "notification_type": "Alert",
+  "condition_type": "Python",
+  "send_to_all_assignees": 0,
+  "message_type": "Markdown",
+  "message": "{{ doc.name }} moved to {{ doc.workflow_state }}. Open the record to act on it.",
+  "attach_print": 0,
+  "attach_files": "",
+  "doctype": "Notification",
+  "recipients": [
+   {
+    "name": "j24q1ona17",
+    "idx": 1,
+    "receiver_by_role": "Quality Manager",
+    "parent": "NCR workflow change",
+    "parentfield": "recipients",
+    "parenttype": "Notification",
+    "doctype": "Notification Recipient"
+   }
+  ]
+ }
+]
