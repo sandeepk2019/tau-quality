@@ -1,0 +1,68 @@
+[
+ {
+  "name": "NOx Non-conformance, MRB and CAPA",
+  "idx": 0,
+  "quality_procedure_name": "NOx Non-conformance, MRB and CAPA",
+  "is_group": 0,
+  "rgt": 2,
+  "lft": 1,
+  "old_parent": "",
+  "doctype": "Quality Procedure",
+  "processes": [
+   {
+    "name": "bvfcd1fmv4",
+    "idx": 1,
+    "process_description": "NC detected (incoming, in-process, final or customer); NCR raised and unit placed on hold",
+    "parent": "NOx Non-conformance, MRB and CAPA",
+    "parentfield": "processes",
+    "parenttype": "Quality Procedure",
+    "doctype": "Quality Procedure Process"
+   },
+   {
+    "name": "bvfpnouf9p",
+    "idx": 2,
+    "process_description": "MRB disposition: rework, repair, use as is, return to vendor or scrap",
+    "parent": "NOx Non-conformance, MRB and CAPA",
+    "parentfield": "processes",
+    "parenttype": "Quality Procedure",
+    "doctype": "Quality Procedure Process"
+   },
+   {
+    "name": "bvfk6249qc",
+    "idx": 3,
+    "process_description": "Rework register or scrap; debit note for supplier-caused NCs",
+    "parent": "NOx Non-conformance, MRB and CAPA",
+    "parentfield": "processes",
+    "parenttype": "Quality Procedure",
+    "doctype": "Quality Procedure Process"
+   },
+   {
+    "name": "bvf1qlnbv0",
+    "idx": 4,
+    "process_description": "CAPA with 5-Why root cause for major or repeat NCs",
+    "parent": "NOx Non-conformance, MRB and CAPA",
+    "parentfield": "processes",
+    "parenttype": "Quality Procedure",
+    "doctype": "Quality Procedure Process"
+   },
+   {
+    "name": "bvfur6a03d",
+    "idx": 5,
+    "process_description": "Customer complaint: G8D report; effectiveness check before close",
+    "parent": "NOx Non-conformance, MRB and CAPA",
+    "parentfield": "processes",
+    "parenttype": "Quality Procedure",
+    "doctype": "Quality Procedure Process"
+   },
+   {
+    "name": "bvfo6q8dav",
+    "idx": 6,
+    "process_description": "Update PFMEA, control plan and work instruction through ECN",
+    "parent": "NOx Non-conformance, MRB and CAPA",
+    "parentfield": "processes",
+    "parenttype": "Quality Procedure",
+    "doctype": "Quality Procedure Process"
+   }
+  ]
+ }
+]

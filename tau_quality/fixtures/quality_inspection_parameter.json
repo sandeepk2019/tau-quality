@@ -1,0 +1,62 @@
+[
+ {
+  "name": "OP-270 Glue weight large case (g)",
+  "idx": 0,
+  "parameter": "OP-270 Glue weight large case (g)",
+  "doctype": "Quality Inspection Parameter"
+ },
+ {
+  "name": "OP-270 Glue weight small case (g)",
+  "idx": 0,
+  "parameter": "OP-270 Glue weight small case (g)",
+  "doctype": "Quality Inspection Parameter"
+ },
+ {
+  "name": "OP-230 Glue weight 4-pin (g)",
+  "idx": 0,
+  "parameter": "OP-230 Glue weight 4-pin (g)",
+  "doctype": "Quality Inspection Parameter"
+ },
+ {
+  "name": "OP-230 Glue weight 8-pin (g)",
+  "idx": 0,
+  "parameter": "OP-230 Glue weight 8-pin (g)",
+  "doctype": "Quality Inspection Parameter"
+ },
+ {
+  "name": "OP-220 Activation temperature (deg C)",
+  "idx": 0,
+  "parameter": "OP-220 Activation temperature (deg C)",
+  "doctype": "Quality Inspection Parameter"
+ },
+ {
+  "name": "OP-200 Final crimp diameter (mm)",
+  "idx": 0,
+  "parameter": "OP-200 Final crimp diameter (mm)",
+  "doctype": "Quality Inspection Parameter"
+ },
+ {
+  "name": "OP-180 Lock sleeve crimp diameter (mm)",
+  "idx": 0,
+  "parameter": "OP-180 Lock sleeve crimp diameter (mm)",
+  "doctype": "Quality Inspection Parameter"
+ },
+ {
+  "name": "OP-150 External exhaust hood diameter (mm)",
+  "idx": 0,
+  "parameter": "OP-150 External exhaust hood diameter (mm)",
+  "doctype": "Quality Inspection Parameter"
+ },
+ {
+  "name": "OP-100 Ceramic chip height at sensing side (mm)",
+  "idx": 0,
+  "parameter": "OP-100 Ceramic chip height at sensing side (mm)",
+  "doctype": "Quality Inspection Parameter"
+ },
+ {
+  "name": "OP-80 Height after laser welding (mm)",
+  "idx": 0,
+  "parameter": "OP-80 Height after laser welding (mm)",
+  "doctype": "Quality Inspection Parameter"
+ }
+]

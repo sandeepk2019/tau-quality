@@ -1,0 +1,233 @@
+[
+ {
+  "name": "NOx OP-270 Glueing Large Back Cover",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-270 Glueing Large Back Cover",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bvfqvadegh",
+    "idx": 1,
+    "specification": "OP-270 Glue weight large case (g)",
+    "numeric": 1,
+    "min_value": 3.6,
+    "max_value": 3.75,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-270 Glueing Large Back Cover",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-270 Glueing Small Back Cover",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-270 Glueing Small Back Cover",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bveoj8l501",
+    "idx": 1,
+    "specification": "OP-270 Glue weight small case (g)",
+    "numeric": 1,
+    "min_value": 2.68,
+    "max_value": 2.78,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-270 Glueing Small Back Cover",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-230 Glueing 4-pin",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-230 Glueing 4-pin",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bveoi661ni",
+    "idx": 1,
+    "specification": "OP-230 Glue weight 4-pin (g)",
+    "numeric": 1,
+    "min_value": 0.76,
+    "max_value": 0.86,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-230 Glueing 4-pin",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-230 Glueing 8-pin",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-230 Glueing 8-pin",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bvegir1ce5",
+    "idx": 1,
+    "specification": "OP-230 Glue weight 8-pin (g)",
+    "numeric": 1,
+    "min_value": 1.0,
+    "max_value": 1.15,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-230 Glueing 8-pin",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-220 Sensor Probe Assembly Activation",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-220 Sensor Probe Assembly Activation",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bveuug9vsg",
+    "idx": 1,
+    "specification": "OP-220 Activation temperature (deg C)",
+    "numeric": 1,
+    "min_value": 780.0,
+    "max_value": 820.0,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-220 Sensor Probe Assembly Activation",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-200 Final Crimping",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-200 Final Crimping",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bvelcscn0v",
+    "idx": 1,
+    "specification": "OP-200 Final crimp diameter (mm)",
+    "numeric": 1,
+    "min_value": 10.6,
+    "max_value": 11.2,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-200 Final Crimping",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-180 Lock Sleeve Crimping",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-180 Lock Sleeve Crimping",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bve1hv31ai",
+    "idx": 1,
+    "specification": "OP-180 Lock sleeve crimp diameter (mm)",
+    "numeric": 1,
+    "min_value": 11.4,
+    "max_value": 11.8,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-180 Lock Sleeve Crimping",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-150 Middle and External Hood Press Fit",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-150 Middle and External Hood Press Fit",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bvecekgivj",
+    "idx": 1,
+    "specification": "OP-150 External exhaust hood diameter (mm)",
+    "numeric": 1,
+    "min_value": 8.89,
+    "max_value": 8.95,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-150 Middle and External Hood Press Fit",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-110 Final Powder Pressing",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-110 Final Powder Pressing",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bve0o23bp5",
+    "idx": 1,
+    "specification": "OP-100 Ceramic chip height at sensing side (mm)",
+    "numeric": 1,
+    "min_value": 9.0,
+    "max_value": 9.6,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-110 Final Powder Pressing",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-100 Primary Powder Pressing",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-100 Primary Powder Pressing",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bvei3igsfb",
+    "idx": 1,
+    "specification": "OP-100 Ceramic chip height at sensing side (mm)",
+    "numeric": 1,
+    "min_value": 9.0,
+    "max_value": 9.6,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-100 Primary Powder Pressing",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ },
+ {
+  "name": "NOx OP-80 Base Welding",
+  "idx": 0,
+  "quality_inspection_template_name": "NOx OP-80 Base Welding",
+  "doctype": "Quality Inspection Template",
+  "item_quality_inspection_parameter": [
+   {
+    "name": "bveh899fdl",
+    "idx": 1,
+    "specification": "OP-80 Height after laser welding (mm)",
+    "numeric": 1,
+    "min_value": 47.43,
+    "max_value": 47.53,
+    "formula_based_criteria": 0,
+    "parent": "NOx OP-80 Base Welding",
+    "parentfield": "item_quality_inspection_parameter",
+    "parenttype": "Quality Inspection Template",
+    "doctype": "Item Quality Inspection Parameter"
+   }
+  ]
+ }
+]

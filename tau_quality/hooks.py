@@ -287,4 +287,10 @@ fixtures = [
     "Workflow State",
     "Workflow Action Master",
     {"dt": "Notification", "filters": [["name", "in", ["NCR workflow change", "8D workflow change"]]]},
+    {"dt": "Workstation"},
+    {"dt": "Operation", "filters": [["name", "like", "OP-%"]]},
+    "Routing",
+    "Quality Inspection Parameter",
+    {"dt": "Quality Inspection Template", "filters": [["name", "like", "NOx%"]]},
+    "Quality Procedure",
 ]
