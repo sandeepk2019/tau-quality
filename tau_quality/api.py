@@ -5,7 +5,7 @@ from urllib.parse import quote
 from tau_quality.access import MODULES, ROLE_ACL, module_access, workspace_slug
 
 ROUTE_OF = {m[0]: "/app/" + workspace_slug(m[4]) for m in MODULES}
-ROLE_ACL_ORDER = [r for r in ROLE_ACL if r != "System Manager"] + ["System Manager"]
+ROLE_ACL_ORDER = ["System Manager"] + [r for r in ROLE_ACL if r != "System Manager"]
 
 
 def _rows(doctype, filters, fields):
